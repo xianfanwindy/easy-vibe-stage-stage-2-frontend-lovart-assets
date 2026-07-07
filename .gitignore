@@ -1,0 +1,13 @@
+# 密钥与环境变量
+.env
+
+# 生成输出
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Gradio 缓存
+.gradio/
